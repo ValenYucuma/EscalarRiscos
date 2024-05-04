@@ -1,0 +1,6 @@
+@EscalarRisco_HostAddress = http://localhost:5210
+
+GET {{EscalarRisco_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

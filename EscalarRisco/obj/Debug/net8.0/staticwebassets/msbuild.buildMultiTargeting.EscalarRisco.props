@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EscalarRisco.props" />
+</Project>

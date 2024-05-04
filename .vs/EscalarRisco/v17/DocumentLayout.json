@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\EscalarRisco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E533002E-6281-4BE4-BCEA-E8ADBB580D26}|EscalarRisco\\EscalarRisco.csproj|c:\\users\\asus\\source\\repos\\escalarrisco\\escalarrisco\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E533002E-6281-4BE4-BCEA-E8ADBB580D26}|EscalarRisco\\EscalarRisco.csproj|solutionrelative:escalarrisco\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E533002E-6281-4BE4-BCEA-E8ADBB580D26}|EscalarRisco\\EscalarRisco.csproj|c:\\users\\asus\\source\\repos\\escalarrisco\\escalarrisco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E533002E-6281-4BE4-BCEA-E8ADBB580D26}|EscalarRisco\\EscalarRisco.csproj|solutionrelative:escalarrisco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E533002E-6281-4BE4-BCEA-E8ADBB580D26}|EscalarRisco\\EscalarRisco.csproj|c:\\users\\asus\\source\\repos\\escalarrisco\\escalarrisco\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E533002E-6281-4BE4-BCEA-E8ADBB580D26}|EscalarRisco\\EscalarRisco.csproj|solutionrelative:escalarrisco\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E533002E-6281-4BE4-BCEA-E8ADBB580D26}|EscalarRisco\\EscalarRisco.csproj|c:\\users\\asus\\source\\repos\\escalarrisco\\escalarrisco\\handlers\\climbcliffcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E533002E-6281-4BE4-BCEA-E8ADBB580D26}|EscalarRisco\\EscalarRisco.csproj|solutionrelative:escalarrisco\\handlers\\climbcliffcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E533002E-6281-4BE4-BCEA-E8ADBB580D26}|EscalarRisco\\EscalarRisco.csproj|c:\\users\\asus\\source\\repos\\escalarrisco\\escalarrisco\\response\\climbcliffresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E533002E-6281-4BE4-BCEA-E8ADBB580D26}|EscalarRisco\\EscalarRisco.csproj|solutionrelative:escalarrisco\\response\\climbcliffresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E533002E-6281-4BE4-BCEA-E8ADBB580D26}|EscalarRisco\\EscalarRisco.csproj|c:\\users\\asus\\source\\repos\\escalarrisco\\escalarrisco\\data\\entities\\element.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E533002E-6281-4BE4-BCEA-E8ADBB580D26}|EscalarRisco\\EscalarRisco.csproj|solutionrelative:escalarrisco\\data\\entities\\element.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E533002E-6281-4BE4-BCEA-E8ADBB580D26}|EscalarRisco\\EscalarRisco.csproj|c:\\users\\asus\\source\\repos\\escalarrisco\\escalarrisco\\controllers\\elementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E533002E-6281-4BE4-BCEA-E8ADBB580D26}|EscalarRisco\\EscalarRisco.csproj|solutionrelative:escalarrisco\\controllers\\elementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E533002E-6281-4BE4-BCEA-E8ADBB580D26}|EscalarRisco\\EscalarRisco.csproj|c:\\users\\asus\\source\\repos\\escalarrisco\\escalarrisco\\queries\\getelementsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E533002E-6281-4BE4-BCEA-E8ADBB580D26}|EscalarRisco\\EscalarRisco.csproj|solutionrelative:escalarrisco\\queries\\getelementsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E533002E-6281-4BE4-BCEA-E8ADBB580D26}|EscalarRisco\\EscalarRisco.csproj|c:\\users\\asus\\source\\repos\\escalarrisco\\escalarrisco\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E533002E-6281-4BE4-BCEA-E8ADBB580D26}|EscalarRisco\\EscalarRisco.csproj|solutionrelative:escalarrisco\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E533002E-6281-4BE4-BCEA-E8ADBB580D26}|EscalarRisco\\EscalarRisco.csproj|c:\\users\\asus\\source\\repos\\escalarrisco\\escalarrisco\\handlers\\getelementsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E533002E-6281-4BE4-BCEA-E8ADBB580D26}|EscalarRisco\\EscalarRisco.csproj|solutionrelative:escalarrisco\\handlers\\getelementsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E533002E-6281-4BE4-BCEA-E8ADBB580D26}|EscalarRisco\\EscalarRisco.csproj|c:\\users\\asus\\source\\repos\\escalarrisco\\escalarrisco\\commands\\climbcliffcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E533002E-6281-4BE4-BCEA-E8ADBB580D26}|EscalarRisco\\EscalarRisco.csproj|solutionrelative:escalarrisco\\commands\\climbcliffcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E533002E-6281-4BE4-BCEA-E8ADBB580D26}|EscalarRisco\\EscalarRisco.csproj|c:\\users\\asus\\source\\repos\\escalarrisco\\escalarrisco\\request\\climbcliffrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E533002E-6281-4BE4-BCEA-E8ADBB580D26}|EscalarRisco\\EscalarRisco.csproj|solutionrelative:escalarrisco\\request\\climbcliffrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E533002E-6281-4BE4-BCEA-E8ADBB580D26}|EscalarRisco\\EscalarRisco.csproj|c:\\users\\asus\\source\\repos\\escalarrisco\\escalarrisco\\helpers\\helperelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E533002E-6281-4BE4-BCEA-E8ADBB580D26}|EscalarRisco\\EscalarRisco.csproj|solutionrelative:escalarrisco\\helpers\\helperelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E533002E-6281-4BE4-BCEA-E8ADBB580D26}|EscalarRisco\\EscalarRisco.csproj|c:\\users\\asus\\source\\repos\\escalarrisco\\escalarrisco\\data\\entities\\selectelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E533002E-6281-4BE4-BCEA-E8ADBB580D26}|EscalarRisco\\EscalarRisco.csproj|solutionrelative:escalarrisco\\data\\entities\\selectelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EscalarRisco\\EscalarRisco\\Startup.cs",
+              "RelativeDocumentMoniker": "EscalarRisco\\Startup.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EscalarRisco\\EscalarRisco\\Startup.cs",
+              "RelativeToolTip": "EscalarRisco\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T19:01:33.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClimbCliffResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EscalarRisco\\EscalarRisco\\Response\\ClimbCliffResponse.cs",
+              "RelativeDocumentMoniker": "EscalarRisco\\Response\\ClimbCliffResponse.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EscalarRisco\\EscalarRisco\\Response\\ClimbCliffResponse.cs",
+              "RelativeToolTip": "EscalarRisco\\Response\\ClimbCliffResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T19:25:03.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetElementsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EscalarRisco\\EscalarRisco\\Queries\\GetElementsQuery.cs",
+              "RelativeDocumentMoniker": "EscalarRisco\\Queries\\GetElementsQuery.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EscalarRisco\\EscalarRisco\\Queries\\GetElementsQuery.cs",
+              "RelativeToolTip": "EscalarRisco\\Queries\\GetElementsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T17:56:50.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ElementController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EscalarRisco\\EscalarRisco\\Controllers\\ElementController.cs",
+              "RelativeDocumentMoniker": "EscalarRisco\\Controllers\\ElementController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EscalarRisco\\EscalarRisco\\Controllers\\ElementController.cs",
+              "RelativeToolTip": "EscalarRisco\\Controllers\\ElementController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T17:00:00.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Element.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EscalarRisco\\EscalarRisco\\Data\\Entities\\Element.cs",
+              "RelativeDocumentMoniker": "EscalarRisco\\Data\\Entities\\Element.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EscalarRisco\\EscalarRisco\\Data\\Entities\\Element.cs",
+              "RelativeToolTip": "EscalarRisco\\Data\\Entities\\Element.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T17:03:55.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EscalarRisco\\EscalarRisco\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "EscalarRisco\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EscalarRisco\\EscalarRisco\\WeatherForecast.cs",
+              "RelativeToolTip": "EscalarRisco\\WeatherForecast.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T18:51:40.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EscalarRisco\\EscalarRisco\\Program.cs",
+              "RelativeDocumentMoniker": "EscalarRisco\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EscalarRisco\\EscalarRisco\\Program.cs",
+              "RelativeToolTip": "EscalarRisco\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T20:05:07.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClimbCliffCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EscalarRisco\\EscalarRisco\\Handlers\\ClimbCliffCommandHandler.cs",
+              "RelativeDocumentMoniker": "EscalarRisco\\Handlers\\ClimbCliffCommandHandler.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EscalarRisco\\EscalarRisco\\Handlers\\ClimbCliffCommandHandler.cs",
+              "RelativeToolTip": "EscalarRisco\\Handlers\\ClimbCliffCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwBcAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T19:23:38.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EscalarRisco\\EscalarRisco\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "EscalarRisco\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EscalarRisco\\EscalarRisco\\Data\\DataContext.cs",
+              "RelativeToolTip": "EscalarRisco\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T19:36:03.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetElementsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EscalarRisco\\EscalarRisco\\Handlers\\GetElementsQueryHandler.cs",
+              "RelativeDocumentMoniker": "EscalarRisco\\Handlers\\GetElementsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EscalarRisco\\EscalarRisco\\Handlers\\GetElementsQueryHandler.cs",
+              "RelativeToolTip": "EscalarRisco\\Handlers\\GetElementsQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T18:40:28.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClimbCliffCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EscalarRisco\\EscalarRisco\\Commands\\ClimbCliffCommand.cs",
+              "RelativeDocumentMoniker": "EscalarRisco\\Commands\\ClimbCliffCommand.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EscalarRisco\\EscalarRisco\\Commands\\ClimbCliffCommand.cs",
+              "RelativeToolTip": "EscalarRisco\\Commands\\ClimbCliffCommand.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T19:29:10.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClimbCliffRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EscalarRisco\\EscalarRisco\\Request\\ClimbCliffRequest.cs",
+              "RelativeDocumentMoniker": "EscalarRisco\\Request\\ClimbCliffRequest.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EscalarRisco\\EscalarRisco\\Request\\ClimbCliffRequest.cs",
+              "RelativeToolTip": "EscalarRisco\\Request\\ClimbCliffRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T19:25:13.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HelperElement.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EscalarRisco\\EscalarRisco\\Helpers\\HelperElement.cs",
+              "RelativeDocumentMoniker": "EscalarRisco\\Helpers\\HelperElement.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EscalarRisco\\EscalarRisco\\Helpers\\HelperElement.cs",
+              "RelativeToolTip": "EscalarRisco\\Helpers\\HelperElement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T18:14:07.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SelectElement.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EscalarRisco\\EscalarRisco\\Data\\Entities\\SelectElement.cs",
+              "RelativeDocumentMoniker": "EscalarRisco\\Data\\Entities\\SelectElement.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EscalarRisco\\EscalarRisco\\Data\\Entities\\SelectElement.cs",
+              "RelativeToolTip": "EscalarRisco\\Data\\Entities\\SelectElement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T17:04:08.548Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
